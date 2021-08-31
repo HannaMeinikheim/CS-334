@@ -13,9 +13,11 @@ Professor: Conrad Kennington
 3. Stage the file for commit to your local repository.
 
 `$ git add <filename>`
+
 4. Commit the file that you've staged in your local repository.
 
 `$ git commit -m "Add existing file"`
+
 5. Push the changes in your local repository to GitHub.
 
 `$ git push`
