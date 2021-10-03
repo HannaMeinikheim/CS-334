@@ -21,3 +21,11 @@ Professor: Conrad Kennington
 5. Push the changes in your local repository to GitHub.
 
 `$ git push`
+
+-----
+# Common Commands in Jupyter Notebook
+
+`esc m` = changes to markdown mode
+`esc a` = adds another cell above the one you are in
+`esc b` = adds another cell below the one you are in
+`ctrl /` = comments out the selected section of code
