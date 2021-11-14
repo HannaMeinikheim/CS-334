@@ -32,3 +32,7 @@ Professor: Conrad Kennington
 `esc b` = adds another cell below the one you are in
 
 `ctrl /` = comments out the selected section of code
+-----
+# Windows Commands Windows 10
+
+`Shift Windows S` = snaphsot
